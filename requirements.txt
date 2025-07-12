@@ -1,0 +1,4 @@
+telebot
+phonenumbers
+dnspython
+Flask==2.2.5
